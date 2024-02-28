@@ -10,6 +10,8 @@
 * in terminal: `python -m pip install pyls pyqt6 pyside6`
 
 ## Install Qt
+[DL Free Qt Designer](https://build-system.fman.io/static/public/files/Qt%20Designer%20Setup.exe)  
+or  
 [DL Page](https://www.qt.io/download-qt-installer-oss) or [Direct Download](https://d13lb3tujbc8s0.cloudfront.net/onlineinstallers/qt-unified-windows-x64-4.7.0-online.exe)
 * get a license if needed (both packages): https://www.qt.io/qt-educational-license#application, verify account
 * log in, \<next>
