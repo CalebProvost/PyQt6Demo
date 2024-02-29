@@ -10,6 +10,11 @@
             "args": [
                 "${file}", "-o", "${workspaceFolder}/ui_${fileBasenameNoExtension}.py"
             ]
+        },
+        {
+            "label": "launch",
+            "type": "shell",
+            "command": "${workspaceFolder}/venv/Scripts/python.exe main.py"
         }
     ]
 }
